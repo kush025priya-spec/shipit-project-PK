@@ -33,7 +33,9 @@ classifiers = [
 # TODO: add keywords
 keywords = []
 # TODO: add dependencies
-dependencies = []
+dependencies = [
+    "numpy>=2.4.4",
+]
 
 [project.urls]
 Homepage = "https://github.com/kush025priya-spec/pyospackage_kushwaha"
@@ -42,6 +44,11 @@ Homepage = "https://github.com/kush025priya-spec/pyospackage_kushwaha"
 Documentation = "https://github.com/kush025priya-spec/pyospackage_kushwaha/blob/main/README.md"
 # Note: update this url when you have published your package to pypi. (or delete it)
 Download = "https://pypi.org/project/pyospackage_kushwaha/#files"
+
+[project.optional-dependencies]
+plot = [
+    "bokeh>=3.9.0",
+]
 
 [dependency-groups]
 dev = [
