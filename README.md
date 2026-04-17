@@ -1,5 +1,6 @@
 # Welcome to pyospackage_kushwaha
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19635717.svg)](https://doi.org/10.5281/zenodo.19635717)
+[![DOI](https://zenodo.org/badge/1207189532.svg)](https://doi.org/10.5281/zenodo.19635716)
+
 |        |        |
 |--------|--------|
 | Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_kushwaha.svg)](https://pypi.org/project/pyospackage_kushwaha/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_kushwaha.svg)](https://pypi.org/project/pyospackage_kushwaha/)  |
