@@ -1,4 +1,4 @@
-# Welcome to pyospackage_kushwaha
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19635717.svg)](https://doi.org/10.5281/zenodo.19635717)# Welcome to pyospackage_kushwaha
 [![DOI](https://zenodo.org/badge/1207189532.svg)](https://doi.org/10.5281/zenodo.19635716)
 
 |        |        |
