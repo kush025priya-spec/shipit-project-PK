@@ -1,15 +1,14 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19635717.svg)](https://doi.org/10.5281/zenodo.19635717)
 
 # Welcome to pyospackage_kushwaha
-
-pyospackage_kushwaha is a project that (describe what it does here).
+pyospackage_kushwaha is a simple Python package that provides basic math functions such as addition and multiplication.
 
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install pyospackage_kushwaha
+$ pip install git+https://github.com/kush025priya-spec/shipit-project-PK.git
 ```
 
 TODO: Add a brief example of how to use the package to this section
